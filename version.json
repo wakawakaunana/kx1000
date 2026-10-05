@@ -1,6 +1,6 @@
 {
-  "version": 17,
-  "zip": "https://cdn.creativeclaw.co/u/e9af58be/zips/68bc2219-95e5-4ad7-b6e6-b95045ffaa83.zip",
-  "sha256": "d2d12248265673f7693121a9b41483d21f8454b07f226760db22b76713937468",
-  "note": "0.8.6 벙커가 모두 무너지면 사령부 피해 6배"
+  "version": 18,
+  "zip": "https://cdn.creativeclaw.co/u/e9af58be/zips/3f8acb08-42a8-4bba-826a-e9c7f890a171.zip",
+  "sha256": "b4fe43f68d205b9690b639537ee7c8fe60cab73d14a07bb5f455a5ebec4227e8",
+  "note": "0.9.0 벙커 승급 5단계(고철→하이테크) · 수용·체력·방어 증가"
 }
