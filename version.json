@@ -1,6 +1,6 @@
 {
-  "version": 8,
-  "zip": "https://cdn.creativeclaw.co/u/e9af58be/zips/1ee0911e-8c74-4afc-84a2-6aef65a99b57.zip",
-  "sha256": "05f967a64fbe47f882ae7fceea0f0bb74c6ad077e4d1e3f5da93b4c28afb19fd",
-  "note": "0.5.1 배경음악 Tactical Pulse 적용"
+  "version": 9,
+  "zip": "https://cdn.creativeclaw.co/u/e9af58be/zips/3a67ef64-de01-4231-b02b-6d4469d64a03.zip",
+  "sha256": "3102b79c936c8f6b41e60871b4a33ba36678494e78637a58c8f900f31d0925fa",
+  "note": "0.6.0 보상 화면 · 로비 재화 표시(코어·크리스탈)"
 }
