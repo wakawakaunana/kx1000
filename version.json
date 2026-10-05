@@ -1,6 +1,6 @@
 {
-  "version": 6,
-  "zip": "https://cdn.creativeclaw.co/u/e9af58be/zips/26366a48-b9c7-430d-8562-d627c8888f15.zip",
-  "sha256": "fd3e68c817d5a436e2a7ec2d3e8e3d6d18343982a375744dcd2b3ec87dce1a00",
-  "note": "0.4.0 버전 표시 우측 상단 고정"
+  "version": 7,
+  "zip": "https://cdn.creativeclaw.co/u/e9af58be/zips/5bdecb61-f462-4f7b-94fd-913aebd21062.zip",
+  "sha256": "43d837b36789e275cd31a8551ab2ee99662699ca3f067ac023586c0453c7a70b",
+  "note": "0.5.0 설정(톱니바퀴) · 효과음/배경음악 볼륨 · 배경음악 추가"
 }
