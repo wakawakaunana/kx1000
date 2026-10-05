@@ -1,6 +1,6 @@
 {
-  "version": 10,
-  "zip": "https://cdn.creativeclaw.co/u/e9af58be/zips/4f05367d-65cb-42e0-975c-5bad5b1050ca.zip",
-  "sha256": "aa1ccaf60de722e7ef59cb34c16e3096c5b3ff5ba03f411bc233e0d6cee0425b",
-  "note": "0.7.0 로비 하단 메뉴 · 전투 버튼 디자인"
+  "version": 11,
+  "zip": "https://cdn.creativeclaw.co/u/e9af58be/zips/5fddfec7-1387-4054-b59d-9ba07a76f1e9.zip",
+  "sha256": "601a41da207c734d5720b7e50a1915bb1cbae431f899706d2f310ea109f79c49",
+  "note": "0.8.0 둥근 벙커 · 창문 사격 · 병사 그림 교체"
 }
