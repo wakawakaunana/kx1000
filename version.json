@@ -1,6 +1,6 @@
 {
-  "version": 16,
-  "zip": "https://cdn.creativeclaw.co/u/e9af58be/zips/e9bde2b2-cbdc-4beb-8fb5-8a4408a9ce8f.zip",
-  "sha256": "6843c9d9e36d0ea30424da23018211bd339dd7d867f8ce8c4608f0e00c2259f4",
-  "note": "0.8.5 기지 강화 창을 아래쪽으로 이동"
+  "version": 17,
+  "zip": "https://cdn.creativeclaw.co/u/e9af58be/zips/68bc2219-95e5-4ad7-b6e6-b95045ffaa83.zip",
+  "sha256": "d2d12248265673f7693121a9b41483d21f8454b07f226760db22b76713937468",
+  "note": "0.8.6 벙커가 모두 무너지면 사령부 피해 6배"
 }
