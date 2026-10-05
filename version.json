@@ -1,6 +1,6 @@
 {
-  "version": 9,
-  "zip": "https://cdn.creativeclaw.co/u/e9af58be/zips/3a67ef64-de01-4231-b02b-6d4469d64a03.zip",
-  "sha256": "3102b79c936c8f6b41e60871b4a33ba36678494e78637a58c8f900f31d0925fa",
-  "note": "0.6.0 보상 화면 · 로비 재화 표시(코어·크리스탈)"
+  "version": 10,
+  "zip": "https://cdn.creativeclaw.co/u/e9af58be/zips/4f05367d-65cb-42e0-975c-5bad5b1050ca.zip",
+  "sha256": "aa1ccaf60de722e7ef59cb34c16e3096c5b3ff5ba03f411bc233e0d6cee0425b",
+  "note": "0.7.0 로비 하단 메뉴 · 전투 버튼 디자인"
 }
