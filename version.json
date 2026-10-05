@@ -1,6 +1,6 @@
 {
-  "version": 7,
-  "zip": "https://cdn.creativeclaw.co/u/e9af58be/zips/5bdecb61-f462-4f7b-94fd-913aebd21062.zip",
-  "sha256": "43d837b36789e275cd31a8551ab2ee99662699ca3f067ac023586c0453c7a70b",
-  "note": "0.5.0 설정(톱니바퀴) · 효과음/배경음악 볼륨 · 배경음악 추가"
+  "version": 8,
+  "zip": "https://cdn.creativeclaw.co/u/e9af58be/zips/1ee0911e-8c74-4afc-84a2-6aef65a99b57.zip",
+  "sha256": "05f967a64fbe47f882ae7fceea0f0bb74c6ad077e4d1e3f5da93b4c28afb19fd",
+  "note": "0.5.1 배경음악 Tactical Pulse 적용"
 }
