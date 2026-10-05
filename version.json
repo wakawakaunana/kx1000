@@ -1,6 +1,6 @@
 {
-  "version": 15,
-  "zip": "https://cdn.creativeclaw.co/u/e9af58be/zips/41d8c036-d492-44c2-9a99-f8a19147984c.zip",
-  "sha256": "4adf5bf98d3f2e41393513dc445a78b70faaab76ddef0a9834c7cb9c2bf3b103",
-  "note": "0.8.4 벙커 창문 사격 위치 수정 · 배속(1.2/1.5/2x)"
+  "version": 16,
+  "zip": "https://cdn.creativeclaw.co/u/e9af58be/zips/e9bde2b2-cbdc-4beb-8fb5-8a4408a9ce8f.zip",
+  "sha256": "6843c9d9e36d0ea30424da23018211bd339dd7d867f8ce8c4608f0e00c2259f4",
+  "note": "0.8.5 기지 강화 창을 아래쪽으로 이동"
 }
