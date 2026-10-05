@@ -1,6 +1,6 @@
 {
-  "version": 18,
-  "zip": "https://cdn.creativeclaw.co/u/e9af58be/zips/3f8acb08-42a8-4bba-826a-e9c7f890a171.zip",
-  "sha256": "b4fe43f68d205b9690b639537ee7c8fe60cab73d14a07bb5f455a5ebec4227e8",
-  "note": "0.9.0 벙커 승급 5단계(고철→하이테크) · 수용·체력·방어 증가"
+  "version": 19,
+  "zip": "https://cdn.creativeclaw.co/u/e9af58be/zips/cd1ce19b-7c7e-4f48-b30c-65cd490baebb.zip",
+  "sha256": "686b3cc736ce74ac2183befeeae049ab5664613a278fa734a240c83f51ac3e1a",
+  "note": "0.9.1 벙커 4단계 · 병사 가격 증가 · 화면 흔들림 완화/설정"
 }
