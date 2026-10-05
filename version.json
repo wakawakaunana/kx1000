@@ -1,6 +1,6 @@
 {
-  "version": 14,
-  "zip": "https://cdn.creativeclaw.co/u/e9af58be/zips/a8f8702b-260a-40c4-93a8-9a0aac0f228b.zip",
-  "sha256": "4f7e41b413b0c28ef94d4c20ddabff09c7fa23fc568882309f15902887c23181",
-  "note": "0.8.3 적이 벙커로 곧장 돌진 · 사령부 돌진 크롤러 제거"
+  "version": 15,
+  "zip": "https://cdn.creativeclaw.co/u/e9af58be/zips/41d8c036-d492-44c2-9a99-f8a19147984c.zip",
+  "sha256": "4adf5bf98d3f2e41393513dc445a78b70faaab76ddef0a9834c7cb9c2bf3b103",
+  "note": "0.8.4 벙커 창문 사격 위치 수정 · 배속(1.2/1.5/2x)"
 }
