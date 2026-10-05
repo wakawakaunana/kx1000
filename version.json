@@ -1,6 +1,6 @@
 {
-  "version": 13,
-  "zip": "https://cdn.creativeclaw.co/u/e9af58be/zips/7cd768af-7a75-4831-848f-b728cc5da096.zip",
-  "sha256": "495c01bff61285c550d8e073f1574db9912441d7b3df30c51194b42c9eec3fab",
-  "note": "0.8.2 건설 시간 증가 · 건설 속도 강화 · 적이 사격 중인 벙커 우선 공격"
+  "version": 14,
+  "zip": "https://cdn.creativeclaw.co/u/e9af58be/zips/a8f8702b-260a-40c4-93a8-9a0aac0f228b.zip",
+  "sha256": "4f7e41b413b0c28ef94d4c20ddabff09c7fa23fc568882309f15902887c23181",
+  "note": "0.8.3 적이 벙커로 곧장 돌진 · 사령부 돌진 크롤러 제거"
 }
